@@ -1,7 +1,3 @@
-I usually use these:
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg
-javascript php lua vue node html5 css3 bootstrap mysql
-
 <h4 align="center">I usually use these: </h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
