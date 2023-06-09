@@ -36,12 +36,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibacs9&hide=html,css&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibacs9&layout=compact&theme=dark" />
-</p>
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/452160986703462422.png" />
-</p>
 <!--
 **ibacs9/ibacs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
